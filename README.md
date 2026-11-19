@@ -64,41 +64,9 @@ Maven : Mengelola dependency dan proses build
 
 ## 4. Struktur Project
 
-text
-KatalogProduk/
-│
-├── src/
-│   └── main/
-│       ├── java/
-│       │   ├── controller/
-│       │   │   └── KatalogController.java
-│       │   │
-│       │   ├── data/
-│       │   │   └── ProdukRepository.java
-│       │   │
-│       │   ├── db/
-│       │   │   └── Database.java
-│       │   │
-│       │   ├── main/
-│       │   │   └── MainApp.java
-│       │   │
-│       │   └── model/
-│       │       └── Produk.java
-│       │
-│       └── resources/
-│           ├── image/
-│           │   ├── roti.png
-│           │   ├── susu.png
-│           │   └── kopi.png
-│           │
-│           └── view/
-│               ├── katalog.fxml
-│               └── styles/
-│                   └── app.css
-│
-├── pom.xml
-└── README.md
-```
+<img width="960" height="505" alt="Cuplikan layar 2026-11-19 224919" src="https://github.com/user-attachments/assets/f1b5d16b-c522-451a-bde2-0c6379a737ec" />
+
+
 
 ## 5. Penjelasan Komponen Program
 
